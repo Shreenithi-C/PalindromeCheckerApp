@@ -2,7 +2,7 @@ package com.palindromeApp;
 
 public class UCtwoPalindromeCheckerApp {
     public static void main(String[] args) {
-        String word = "Malayalam"; // hardcoded string
+        String word = "malayalam"; // hardcoded string
 
         if (isPalindrome(word)) {
             System.out.println(word + " is a palindrome.");
