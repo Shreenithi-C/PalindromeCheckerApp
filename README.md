@@ -1,16 +1,14 @@
 # PalindromeCheckerApp
 
-# UC3: User Input Palindrome
+## UC3: Palindrome Check Using String Reverse
+**Goal:** Check palindrome by reversing a string.  
 
-## Goal
-Accept input from the user via `Scanner`.
+**Flow:**  
+- Reverse string using loop.  
+- Compare original and reversed.  
+- Display result.  
 
-## Description
-- Reads string from console.
-- Checks if it is a palindrome.
+**Key Concepts:** For loop, string immutability, concatenation, `equals()`.  
+**Data Structure:** String.  
 
-## How to Run
-```bash
-git checkout UC3-PalindromeCheck
-javac com/palindromeApp/UCthreePalindromeCheckerApp.java
-java com.palindromeApp.UCthreePalindromeCheckerApp
+
