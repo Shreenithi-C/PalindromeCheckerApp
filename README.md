@@ -13,4 +13,3 @@
 **Key Concepts:** Class, `main()` method, `static`, console output, flow control.  
 **Data Structure:** None (console based).  
 
-**Sample Output:**
