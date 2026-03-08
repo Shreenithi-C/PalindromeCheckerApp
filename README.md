@@ -21,11 +21,3 @@ Each use case builds on the previous one, introducing new concepts: from simple 
 - **UC12** – Strategy Pattern for dynamic algorithm choice  
 - **UC13** – Performance comparison using `System.nanoTime()`
 
-
-
-
-### UC13: Performance Comparison
-- Benchmarks different strategies using `System.nanoTime()`.
-- Compares execution times for efficiency analysis.
-
----
