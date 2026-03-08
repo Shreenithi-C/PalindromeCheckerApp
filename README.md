@@ -1,13 +1,12 @@
 # PalindromeCheckerApp
 
-## 📖 Overview
+## Overview
 This repository demonstrates **13 different approaches** to solving the classic palindrome problem in Java.  
 The objective of tApp is to design and implement a console-based Java application that validates whether a given string is a palindrome under different conditions, while strengthening core programming fundamentals and data structure concepts.
 Each use case builds on the previous one, introducing new concepts: from simple loops to advanced object-oriented design patterns and performance benchmarking.
 
----
 
-## 🚀 Use Cases
+## Use Cases
 
 ### UC1: Basic Hardcoded Palindrome
 - Hardcoded string check.
@@ -63,5 +62,3 @@ Each use case builds on the previous one, introducing new concepts: from simple 
 - Compares execution times for efficiency analysis.
 
 ---
-
-## 📂 Project Structure
