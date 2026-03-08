@@ -1,16 +1,16 @@
 # PalindromeCheckerApp
 
-# UC2: Print a Hardcoded Palindrome Result
+## UC2: Print a Hardcoded Palindrome Result
+**Goal:** Display whether a hardcoded string is a palindrome.  
+**Actor:** User  
 
-## Goal
-Check if a hardcoded string is a palindrome.
+**Flow:**  
+- Program starts.  
+- Hardcoded string is checked.  
+- Result is printed.  
+- Program exits.  
 
-## Description
-- Uses a simple loop to compare characters.
-- No user input, no helper methods.
+**Key Concepts:** Class, `main()`, String literals, conditional `if-else`.  
+**Data Structure:** String.  
 
-## How to Run
-```bash
-git checkout UC1-basic
-javac com/palindromeApp/UCtwoPalindromeCheckerApp.java
-java com.palindromeApp.UCtwoPalindromeCheckerApp
+
