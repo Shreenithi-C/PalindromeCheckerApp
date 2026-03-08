@@ -1,16 +1,16 @@
 # PalindromeCheckerApp
 
-# UC2: Single-Function Palindrome
+# UC2: Print a Hardcoded Palindrome Result
 
 ## Goal
-Perform palindrome check directly inside `main()`.
+Check if a hardcoded string is a palindrome.
 
 ## Description
-- All logic in one place.
-- No helper methods or extra classes.
+- Uses a simple loop to compare characters.
+- No user input, no helper methods.
 
-## How to Run
+## 🛠️ How to Run
 ```bash
-git checkout UC2-PrintResult
+git checkout UC1-basic
 javac com/palindromeApp/UCtwoPalindromeCheckerApp.java
 java com.palindromeApp.UCtwoPalindromeCheckerApp
