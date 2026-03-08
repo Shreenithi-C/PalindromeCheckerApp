@@ -1,15 +1,4 @@
 # PalindromeCheckerApp
-# UC1: Basic Hardcoded Palindrome
+# UC1: Application Entry & Welcome Message
 
-## Goal
-Check if a hardcoded string is a palindrome.
-
-## Description
-- Uses a simple loop to compare characters.
-- No user input, no helper methods.
-
-## How to Run
-```bash
-git checkout UC1-ApplicationEntry
-javac com/palindromeApp/UConePalindromeCheckerApp.java
-java com.palindromeApp.UConePalindromeCheckerApp
+Display a welcome message and app details at startup.
